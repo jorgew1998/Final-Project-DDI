@@ -1,7 +1,7 @@
 # Final-Project-DDI
 
 # Integrantes: 
-- //Alba Jorge
+- Alba Jorge
 - Dávila Bernabé
 - Huaraca Byron
 
@@ -18,4 +18,4 @@
 - https://www.youtube.com/watch?v=1g3KbA4O_ck&t=24s
 
 # Documentacion 
-- asdasd
+
