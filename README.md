@@ -1,4 +1,4 @@
-# Final-Project-DDI
+# PROYECTO FINAL FUNDAMENTOS DE DESARROLLO DE SOFTWARE
 
 # Integrantes: 
 - Alba Jorge
