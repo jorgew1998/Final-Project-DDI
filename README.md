@@ -14,8 +14,8 @@
 # Video manual tecnico
 -
 
-# Videos con reuniiones de seguimiento
-- https://www.youtube.com/watch?v=1g3KbA4O_ck&t=24s
+# Videos con reuniones de seguimiento
+- 1ra reunion:  https://www.youtube.com/watch?v=1g3KbA4O_ck&t=24s
 
 # Documentacion 
 
