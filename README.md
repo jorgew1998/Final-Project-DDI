@@ -22,5 +22,6 @@
 - 5ta reunión (13/03/2021): https://youtu.be/ORDuStiQnTU
 - 6ta reunión (14/03/2021): https://youtu.be/TBZ6P31wjl0
 - 7ma reunión (15/03/2021): https://youtu.be/zNraKmtMrGs
+- 8va reuión (16/03/2021): https://youtu.be/wLb-q0tOKWM
 # Documentacion 
 
