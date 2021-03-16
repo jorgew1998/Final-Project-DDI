@@ -23,5 +23,8 @@
 - 6ta reunión (14/03/2021): https://youtu.be/TBZ6P31wjl0
 - 7ma reunión (15/03/2021): https://youtu.be/zNraKmtMrGs
 - 8va reuión (16/03/2021): https://youtu.be/wLb-q0tOKWM
+
+
 # Documentacion 
 
+[Informe Proyecto.pdf](https://github.com/jorgew1998/Final-Project-DDI/files/6152258/Informe.Proyecto.pdf)
