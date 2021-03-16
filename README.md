@@ -26,5 +26,6 @@
 
 
 # Documentacion 
-
 [Informe Proyecto.pdf](https://github.com/jorgew1998/Final-Project-DDI/files/6152258/Informe.Proyecto.pdf)
+[Manual de usuario.pdf](https://github.com/jorgew1998/Final-Project-DDI/files/6152270/Manual.de.usuario.pdf)
+[Manual Técnico.pdf](https://github.com/jorgew1998/Final-Project-DDI/files/6152277/Manual.Tecnico.pdf)
