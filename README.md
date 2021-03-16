@@ -9,10 +9,10 @@
 
 
 # Video manual de usuario
--
+- https://youtu.be/5h4mlSfnZAc
 
 # Video manual tecnico
--
+- https://youtu.be/OSpmum-mWtU
 
 # Videos con reuniones de seguimiento
 - 1ra reunión(22/02/2021):  https://www.youtube.com/watch?v=1g3KbA4O_ck&t=24s
