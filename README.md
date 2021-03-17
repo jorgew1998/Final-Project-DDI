@@ -6,6 +6,7 @@
 - Huaraca Byron
 
 # Proyecto: Actividades en casa
+Desarrollar una página web que permita manejar las actividades del hogar de una forma sencilla a la vez que fomenta la responsabilidad en los miembros de la familia.
 
 
 # Video manual de usuario
